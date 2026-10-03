@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of datlechin/flarum-mermaid.** Not for installation: use [Packagist](https://packagist.org/packages/datlechin/flarum-mermaid) or the [upstream repository](https://github.com/datlechin/flarum-mermaid).
 
-**0** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/datlechin-flarum-mermaid/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^2.0`
+**2** versions archived · Latest: [`v1.1.0`](https://github.com/flarchive/datlechin-flarum-mermaid/tree/archive/v1.1.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-05-10 | `^2.0` | [Browse](https://github.com/flarchive/datlechin-flarum-mermaid/tree/archive/v1.0.0) |
+| `v1.1.0` | 2026-07-13 | `^2.0` | [Browse](https://github.com/flarchive/datlechin-flarum-mermaid/tree/archive/v1.1.0) |
 
 Catalog entry: [packages/datlechin-flarum-mermaid.json](https://github.com/flarchive/archive-index/blob/main/packages/datlechin-flarum-mermaid.json)
 
